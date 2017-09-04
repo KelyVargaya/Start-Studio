@@ -1,0 +1,141 @@
+ /*SECCION 1*/
+
+.navbar-inverse{
+	background-color: black;
+	border:none;
+	padding: 10px; 
+	font-size: 14px;
+}
+
+h1{
+	font-size: 3.0vw;
+	 font-family: 'Luckiest Guy', cursive;
+}
+.menuRes{
+	color: #fff;
+	float: left;
+}
+.icon{
+	float: right;
+  
+}
+
+nav  li a{
+	color: white !important;
+	width: 120px; 
+	font-family: 'Merienda One', cursive;
+	text-align: center;
+}
+.navbar-collapse li:hover{
+	background: #f6c90e;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    border-radius: 5px 5px;
+    background-color: #f6c90e;
+}
+
+.titulo-principal{
+	font-weight: bold;
+	color:#fff;
+	font-family: 'Kavoon', cursive;
+	font-size: 3.9vw;
+	padding-bottom: 150px;
+	padding-top: 100px;
+	margin-left: 60px;
+}
+
+.parrafo-inicio{
+	color: white;
+	font-weight: bold;
+	font-size: 1.5vw;
+}
+
+.btn-inicio{
+	background-color: #F6C90E;
+   	color: #fff;
+	font-size: 1.0vw;
+	font-weight: bolder;
+	width: 30%;
+	
+}
+
+.navbar-brand.logo{
+	padding: 1%;
+	color: transparent;
+	
+}
+.navbar-brand.logo:hover{
+	color: transparent;
+}
+
+ /*SECCION 2*/
+.segunda-seccion{
+	margin: 100px 0;
+}
+.p1{
+    font-style: italic;
+    margin-bottom: 50px;
+}
+
+
+.amarillo{
+    color: #F6C90E;
+}
+
+/*SECCION 3*/
+
+.tercera-section,.quinta-section{
+	background-color: #eae8e8;
+	padding: 100px 0;
+}
+
+/*Seccion 4*/
+
+.img-thumbnail{
+	background-color: #eae8e8;
+}
+
+.marCircle{
+	margin-top: 50px;
+}
+
+/*Seccion 5*/
+
+#team{
+	background-color: #fff;
+}
+.teamP{
+	margin-top: 40px;
+}
+/*  Marcas*/
+
+.marcas{
+	padding: 35px 0;
+}
+
+/*Seccion 6*/
+.secta-seccion{
+	background-image: url(../img/map-image.png);
+	background-color: rgb(36, 36, 37);
+    background-position: center;
+    background-size: cover;
+    padding: 100px 0;
+}
+.secta-seccion h1{
+	color: #fff;
+}
+input{
+	height: 60px;
+}
+input, textarea{
+	width: 100%;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+/*Footer*/
+footer{
+	padding: 20px;
+}
